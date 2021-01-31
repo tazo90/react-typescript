@@ -1,6 +1,6 @@
-# React minimal starter
+# Minimial React and Typescript starter.
 
-Minimial React and Typescript starter.
+It's a slimmed down version of CRA.
 
 ### Tech
 
